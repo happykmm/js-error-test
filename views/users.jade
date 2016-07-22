@@ -1,0 +1,12 @@
+extends layout
+
+block content
+    h1= title
+    p Welcome to #{title}
+    script(src='/js/undefined.js')
+    script.
+        var a = {};
+        a.b.c;
+    script.
+        var foo = {};
+        foo.bar.nosuchkey;

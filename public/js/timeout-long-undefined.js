@@ -1,4 +1,4 @@
 setTimeout(function() {
     var a = {};
-    a.timeout5000.foo;
+    a.timeout.error;
 }, 5000);
