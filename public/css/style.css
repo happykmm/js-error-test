@@ -6,3 +6,11 @@ body {
 a {
   color: #00B7FF;
 }
+
+hr {
+  margin: 20px 0;
+}
+
+ul.links li {
+  margin: 5px 0;
+}
